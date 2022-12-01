@@ -1,0 +1,13 @@
+h1{
+    color: aqua;
+    background-color: black;
+}
+p{
+    color: rgb(98, 237, 12);
+    background-color: rgb(156, 53, 117);
+    font-size: larger;
+}
+img{
+    border: 2px solid red;
+    border-radius: 30px;
+}
